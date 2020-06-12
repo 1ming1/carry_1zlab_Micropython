@@ -1,0 +1,2 @@
+# carry_1zlab_Micropython
+从 1zlab 网站上搬运来的供大家更好地学习Micropython
